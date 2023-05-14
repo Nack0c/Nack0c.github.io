@@ -6,7 +6,7 @@
   <link href="https://nack0c.github.io/atom.xml" rel="self"/>
   
   <link href="https://nack0c.github.io/"/>
-  <updated>2023-05-13T18:10:36.945Z</updated>
+  <updated>2023-05-14T13:17:10.425Z</updated>
   <id>https://nack0c.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>page</title>
+    <link href="https://nack0c.github.io/year/05/14/page/"/>
+    <id>https://nack0c.github.io/year/05/14/page/</id>
+    <published>2023-05-14T13:17:10.000Z</published>
+    <updated>2023-05-14T13:17:10.425Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
