@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nack0c.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-05-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nack0c.github.io/link/index.html</loc>
+    
+    <lastmod>2023-05-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nack0c.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-05-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://nack0c.github.io/year/05/15/%E7%94%9F%E6%B4%BB/%E9%98%B3%E8%B0%B7%E6%98%8E%E5%AA%9A/</loc>
     
     <lastmod>2023-05-17</lastmod>
@@ -39,33 +66,6 @@
   
   <url>
     <loc>https://nack0c.github.io/about/index.html</loc>
-    
-    <lastmod>2023-05-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nack0c.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-05-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nack0c.github.io/link/index.html</loc>
-    
-    <lastmod>2023-05-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nack0c.github.io/tags/index.html</loc>
     
     <lastmod>2023-05-17</lastmod>
     
