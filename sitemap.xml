@@ -20,6 +20,24 @@
   </url>
   
   <url>
+    <loc>https://nack0c.github.io/about/index.html</loc>
+    
+    <lastmod>2023-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://nack0c.github.io/categories/index.html</loc>
+    
+    <lastmod>2023-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://nack0c.github.io/posts/55b1a5b2/</loc>
     
     <lastmod>2023-05-22</lastmod>
@@ -75,24 +93,6 @@
   
   <url>
     <loc>https://nack0c.github.io/posts/27e91d96/</loc>
-    
-    <lastmod>2023-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nack0c.github.io/about/index.html</loc>
-    
-    <lastmod>2023-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://nack0c.github.io/categories/index.html</loc>
     
     <lastmod>2023-05-22</lastmod>
     
